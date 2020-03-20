@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ixouleesu.jordanborth.ca/sitemap.xml
